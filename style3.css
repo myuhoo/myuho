@@ -322,15 +322,15 @@ li {
     width: 100%;
     margin-bottom: 30px;
   }
-  #company dl {
+  .company dl {
     flex-direction: column;
   }
-  #company dt {
+  .company dt {
     width: 100%;
     border-bottom: none;
     padding-bottom: 5px;
   }
-  #company dd {
+  .company dd {
     width: 100%;
     padding-top: 5px;
   }
